@@ -5,4 +5,4 @@ const adder = (a, b) => {
 };
 
 console.log(adder(5, 10));
-console.log("Daniel caused a merge conflict but it has now been resolved.");
+console.log("Daniel caused a merge but it has now been resolved.");
